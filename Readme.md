@@ -1,7 +1,7 @@
 # Nafees Ur Rehman
 Web Developer | Lead Programmer | Freelancer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40nafees--ur--r-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nafees-ur-r-4100b7134/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40nafees--ur--r-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nafees-ur-rehman-4100b7134)
 [![Email](https://img.shields.io/badge/Email-nafeesurrehman11%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nafeesurrehman11@gmail.com)
 [![Email](https://img.shields.io/badge/Email-nafeesurrehman11%40outlook.com-red?style=flat-square&logo=gmail)](mailto:nafeesurrehman11@outlook.com)
 
