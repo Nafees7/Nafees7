@@ -32,6 +32,6 @@ Web Developer | Lead Programmer | Freelancer
    - Implemented game physics and animations to provide an engaging gaming experience.
 
 ## Current Status
-🔧 Currently, I am working on the Dining Philosopher's Problem for multithreading. Exploring different approaches and synchronization techniques to tackle the challenges associated with concurrent dining philosophers.
+🔧 Currently, I am working on my own project "SOPHIA" which is a LLm.
 
 Feel free to reach out to me via email or LinkedIn. I'm always eager to collaborate on exciting projects and expand my network.
