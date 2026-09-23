@@ -2,20 +2,22 @@
 Web Developer | Lead Programmer | Freelancer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40nafees--ur--r-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nafees-ur-rehman-4100b7134)
-[![Email](https://img.shields.io/badge/Email-nafeesurrehman11%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nafeesurrehman11@gmail.com)
 [![Email](https://img.shields.io/badge/Email-nafeesurrehman11%40outlook.com-red?style=flat-square&logo=gmail)](mailto:nafeesurrehman11@outlook.com)
+[![Email](https://img.shields.io/badge/Email-nafeesurrehman11%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nafeesurrehman11@gmail.com)
 
 ## About Me
-👋 Hello! I'm Nafees Ur Rehman, a highly motivated web developer with experience as a web development intern at ineuron and a lead programmer for CodeChef. I'm currently working as a freelancer, offering my expertise in coding and programming. With proficiency in technologies like Java, Python, Scala, C, C++, and Django, I strive to create efficient and innovative solutions.
+👋 I have extensive experience in web development, cross-platform, and platform-specific applications using .NET. In my current role, I develop and debug applications, and my workflow includes working with Citrix workforce management tools. Additionally, I have developed Java applications for cross-platform environments, primarily utilizing Spring Boot.
 
 ## Skills
-💻 Java, Python, Scala, C, C++, Django
+💻 Java and .Net Developer.
 
 ## Experience
+- **.Net Developer** at [24]7.ai. Bengaluru, Ka, India. 
+- **Java Core Developer** at Computer Station Co. Doha, Qatar
 - **Web Developer Intern** at ineuron
 - **Lead Programmer** at CodeChef
 
-## Projects
+## Academic Projects 
 1. **Face Recognition using Python, TensorFlow, and Keras** 📷🔍
    - Developed a facial recognition system utilizing deep learning techniques and frameworks such as TensorFlow and Keras.
    - Implemented convolutional neural networks (CNN) for face detection and recognition.
@@ -32,6 +34,6 @@ Web Developer | Lead Programmer | Freelancer
    - Implemented game physics and animations to provide an engaging gaming experience.
 
 ## Current Status
-🔧 Currently, I am working on my own project "SOPHIA" which is a LLm.
+🔧 Looking for new opportunities.
 
 Feel free to reach out to me via email or LinkedIn. I'm always eager to collaborate on exciting projects and expand my network.
